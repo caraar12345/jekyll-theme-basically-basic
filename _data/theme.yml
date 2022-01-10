@@ -1,5 +1,6 @@
 # Theme Skin
-skin: default # default, night, plum, sea, soft, steel
+lightmode_skin: default # default, night, plum, sea, soft, steel
+darkmode_skin: night # default, night, plum, sea, soft, steel
 
 # Theme Text
 t:
